@@ -9,7 +9,7 @@ sudo pacman --noconfirm -S  \
     graphviz                \
 
 # build and run edb
-cd /opt/
+cd ~/bin/
 git clone --recursive https://github.com/eteran/edb-debugger.git
 cd edb-debugger
 mkdir build
