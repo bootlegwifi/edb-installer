@@ -1,2 +1,2 @@
 # edb-installer
-bash script to install edb-debugger on arch linux
+Bash script for installing edb-debugger on arch linux.
